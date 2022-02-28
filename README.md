@@ -21,12 +21,15 @@ Host sultan-vm-gui
 
 then run:
 
+```cpp
 ssh sultan-vm 
+```
 
 or 
 
+```cpp
 ssh sultan-vm-gui
-
+```
 # To access gui
 
 Download VNC viewer https://www.realvnc.com/en/connect/download/viewer/
