@@ -2,6 +2,7 @@
 
 Add the following to ~/.ssh/config
 
+```cpp
 Host sultan-vm
         User omneya
         HostName 172-105-89-107.ip.linodeusercontent.com
@@ -14,6 +15,8 @@ Host sultan-vm-gui
         LogLevel DEBUG3
         HostName 172-105-89-107.ip.linodeusercontent.com
         IdentityFile ~/.ssh/linode
+```
+
 
 
 then run:
